@@ -243,4 +243,4 @@ For detailed documentation and video tutorials, visit our website or contact sup
 
 ---
 
-**© 2024 Student Record Management System. All rights reserved.**
+**© 2026 Student Record Management System. All rights reserved.**
